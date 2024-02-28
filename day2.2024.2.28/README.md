@@ -252,5 +252,5 @@
 ``` source .bash_profile ```
 重新应用配置
 
-### chmod
+
 
