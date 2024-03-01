@@ -1,0 +1,40 @@
+Linux 安装软件
+本地安装：
+命令行界面光驱的使用
+mount /dev/cdrom  /mnt
+cd /mnt
+[root@myhost mnt]# ls
+CentOS_BuildTag  EULA  images    LiveOS    repodata              RPM-GPG-KEY-CentOS-Testing-7
+EFI              GPL   isolinux  Packages  RPM-GPG-KEY-CentOS-7  TRANS.TBL
+进入Packages 软件包目录，找需要的软件安装
+软件管理的命令：
+rpm  -qa   #查找系统安装的所有软件
+rpm -qa | grep  软件名    #查询某个软件是否安装
+
+rpm -e 软件包安装过后的名字
+
+rpm -ivh  软件包名
+
+
+
+网络安装：
+yum 工具可以解决软件安装的依赖关系
+===========================================
+Linux系统编辑器
+vim模式：
+1.编辑模式： a，i，o
+2、指令模式
+3、末行模式
+
+==================================
+指令模式： dd删除行。xdd删除光标所在行开始往下几行
+	       yy复制行。xyy复制光标所在行往下开始的几行
+		   p粘贴，粘贴在光标所在行的下面
+		   
+		   
+S20210901
+
+username=S20210901+$num
+num=1..37
+read -p "Input password:" pwd
+echo $pwd | passwd --stdin $username
