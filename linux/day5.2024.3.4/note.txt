@@ -1,0 +1,48 @@
+chmod u+rwx，g+rwx，o+rwx filename
+
+====================================
+特殊 u+s，g+s，o+t
+u+s叫做suid：执行某个程序，是以管理员的身份执行
+g+s叫做sgid：以某个组的身份执行，
+
+o+t叫做粘贴位：该文件或者目录，只能由管理员或者所有者去删除，主要是添加到目录的
+
+如果想要文件夹中内容，使用管理员和所有者可以删除，其他人无法做到，在该目录添加权限，
+chmod 777 目录名
+chmod o+t 目录名
+========================================================
+针对权限的，acl。
+
+张三，里斯，王五，bingyuan，
+张三有个目录，给组成员是读写执行，其他用户是读和执行，里斯是张三组成员，bingyuan用户也要读写执行权限，但是不能添加到组
+
+张三： 两个目录a和b，对组成员的权限都是读写执行，
+
+里斯是张三的组员，对a和b目录都有读写执行，bingyuan只有a目录的读写执行，b目录只有读和执行，
+
+张三组用户可以对a和b目录读写执行，其他用户只能读和执行，bingyuan用户可以读写执行a目录，不能读b目录
+=========================
+acl有两个命令：getfacl，setfacl单独设定权限
+=========================
+getfacl 文件名
+
+setfacl -m u:用户名:权限(rwx) 文件名或目录名 
+
+gcc main1.c -o main1
+
+===================
+sudo apt install ssh
+sudo systemctl enable ssh
+sudo systemctl start ssh 
+================================
+1、网络通
+2、软件安装了
+	1)如果没有安装软件，测试dns
+	  a)sudo vi /etc/resolv.conf
+	    nameserver 114.114.114.114
+	2)sudo apt install vim, ssh, gcc 
+3)ssh安装完毕，启用和启动
+sudo systemctl enable ssh
+sudo systemctl start ssh 
+
+可以在xshell中，ssh 主机IP地址，远程登录
