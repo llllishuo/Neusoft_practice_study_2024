@@ -12,12 +12,12 @@
 针对单一用户、单一文件或目录进行权限设置
 
 setfacl 参数
-  -m：设置后续acl参数 
-  -x：删除后续acl参数  
-  -b：删除全部的acl参数
-  -k：删除默认的acl参数
-  -R：递归设置acl，包括子目录
-  -d：设置默认acl
+* -m：设置后续acl参数 
+* -x：删除后续acl参数  
+* -b：删除全部的acl参数
+* -k：删除默认的acl参数
+* -R：递归设置acl，包括子目录
+* -d：设置默认acl
 
 ``` setfacl -m u:username:rwx FileOrDir ```
 
