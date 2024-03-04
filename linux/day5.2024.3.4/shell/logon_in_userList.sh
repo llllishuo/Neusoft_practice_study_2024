@@ -1,5 +1,6 @@
 #!/bin/bash
-# 
+# 批量添加与删除用户
+# 格式: ./logon_in_userList.sh or ./logon_in_userList.sh [name_prefix] [user_file] [password]"
 
 usernameArray=()
 password=""
@@ -36,7 +37,7 @@ then
   done
 
 else
-  echo -e "命令格式错误!!!\n其格式为: ./logon_in_userList.sh or ./logon_in_userList.sh \[name_prefix\] \[user_file\] \[password\]"
+  echo -e "命令格式错误!!!\n其格式为: ./logon_in_userList.sh or ./logon_in_userList.sh [name_prefix] [user_file] [password]"
   exit 0
 fi
     
