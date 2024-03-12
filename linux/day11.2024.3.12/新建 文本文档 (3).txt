@@ -1,0 +1,39 @@
+课程复习：
+1、系统安装
+/boot 分区需要单独出来
+
+
+2、Linux的命令：
+	1）文件：cat，more，less head，tail，tailf 或tail -f 动态，echo，grep -v，-i ^root,bash$,^$,touch 
+	2）目录:ls,pwd,cd,mv,cp -r -p, mkdir,rmdir, mkdir -p /a/b/c/d, rm -rf,tar gzip,biz2: tar -zcvf /-jcvf, tar -zxvf | -jxvf,
+	3）用户:useradd,usermod,userdel,passwd, chmod,chown,chgrp,groupadd ,groupdel,groupmod,id    ugo+-=rwx   777，suid： u+s，sgid：g+s，粘贴位：o+T
+	        chmod 4755/2755/1755 目录
+	4）进程：ps top nice 
+	vim 编辑器
+	a i o：
+	dd，yy，p 
+=============================================================
+3、软件安装 apt install 
+            yum install ,yum localinstall
+=============================================================
+apt install gcc 
+
+yum install gcc
+===================================================
+shell 脚本
+if  then  elif  else  fi
+case    esac
+for
+do
+done
+while
+do
+done
+until
+do
+done
+chmod +x *.sh
+./*.sh
+
+bash *.sh
+===============================================================
