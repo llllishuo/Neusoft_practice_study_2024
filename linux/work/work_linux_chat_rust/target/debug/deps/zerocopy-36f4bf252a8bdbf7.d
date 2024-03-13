@@ -1,0 +1,13 @@
+/root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/target/debug/deps/libzerocopy-36f4bf252a8bdbf7.rmeta: /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/lib.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/macros.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/macro_util.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/post_monomorphization_compile_fail_tests.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/util.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/third_party/rust/layout.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/wrappers.rs
+
+/root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/target/debug/deps/zerocopy-36f4bf252a8bdbf7.d: /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/lib.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/macros.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/macro_util.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/post_monomorphization_compile_fail_tests.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/util.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/third_party/rust/layout.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/wrappers.rs
+
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/lib.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/macros.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/macro_util.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/post_monomorphization_compile_fail_tests.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/util.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/third_party/rust/layout.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/zerocopy-0.7.32/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.32

@@ -1,0 +1,10 @@
+/root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/target/debug/deps/libuntrusted-0d4f2f5eacbcc494.rmeta: /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/lib.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/input.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/no_panic.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/reader.rs
+
+/root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/target/debug/deps/libuntrusted-0d4f2f5eacbcc494.rlib: /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/lib.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/input.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/no_panic.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/reader.rs
+
+/root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/target/debug/deps/untrusted-0d4f2f5eacbcc494.d: /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/lib.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/input.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/no_panic.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/reader.rs
+
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/lib.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/input.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/no_panic.rs:
+/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/untrusted-0.9.0/src/reader.rs:
