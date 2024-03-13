@@ -1,9 +1,0 @@
-/root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/target/debug/deps/libpowerfmt-c5c3208fd3be2aa9.rmeta: /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/lib.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/buf.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/ext.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/smart_display.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/smart_display_impls.rs
-
-/root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/target/debug/deps/powerfmt-c5c3208fd3be2aa9.d: /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/lib.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/buf.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/ext.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/smart_display.rs /root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/smart_display_impls.rs
-
-/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/lib.rs:
-/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/buf.rs:
-/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/ext.rs:
-/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/smart_display.rs:
-/root/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/powerfmt-0.2.0/src/smart_display_impls.rs:

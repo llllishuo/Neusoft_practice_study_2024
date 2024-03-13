@@ -1,1 +1,0 @@
-/root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/target/debug/work_linux_chat_rust: /root/menghan_studio/note/Neusoft_practice_study_2024/linux/work/work_linux_chat_rust/src/main.rs
